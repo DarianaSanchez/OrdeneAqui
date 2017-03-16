@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/check"
+            android:title="Órdenes activas" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/star"
+            android:title="Favoritos" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/user"
+            android:title="Mi cuenta" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/history"
+            android:title="Historial" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/settings"
+            android:title="Ajustes" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/onoff"
+            android:title="Cerrar Sesión" />
+    </group>
+</menu>
