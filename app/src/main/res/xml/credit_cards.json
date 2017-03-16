@@ -1,16 +1,16 @@
 {
   "cards": [
     {
-      "numero": "4875-4432-3675-7646",
-      "titular": "John Doe",
-      "vencimiento": "11/19",
-      "tipo": "MasterCard"
+      "number": "4875-4432-3675-7646",
+      "owner": "John Doe",
+      "expires": "11/19",
+      "type": "MasterCard"
     },
     {
-      "numero": "5325-6737-8964-0905",
-      "titular": "John Doe",
-      "vencimiento": "03/20",
-      "tipo": "Visa"
+      "number": "5325-6737-8964-0905",
+      "owner": "John Doe",
+      "expires": "03/20",
+      "type": "Visa"
     }
   ]
 }
